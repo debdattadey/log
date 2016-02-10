@@ -40,8 +40,8 @@ import java.awt.EventQueue;
     /**
      * Create the application.
      */
-    public Login() {
-        initialize();
+    //public Login() {
+        //initialize();
     }
  
     /**
@@ -118,4 +118,4 @@ import java.awt.EventQueue;
              }
     }       
  
- } 
+ } //not sucessful
