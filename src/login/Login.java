@@ -24,7 +24,7 @@ import java.awt.EventQueue;
     /**
      * Launch the application.
      */
-    //public static void main(String[] args) {
+    public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
                 try {
@@ -40,8 +40,8 @@ import java.awt.EventQueue;
     /**
      * Create the application.
      */
-    //public Login() {
-        //initialize();
+    public Login() {
+        initialize();
     }
  
     /**
